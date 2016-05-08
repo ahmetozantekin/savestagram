@@ -7,5 +7,5 @@ Download from Google Chrome Web Store:
 It will be appeared in right-bottom corner of photos, likes as below:
 ![Savestagram likes as it](https://raw.githubusercontent.com/okanvurdu/savestagram/master/screenshot.png)
 
-> **Note:** Extension logo is taken from [here](https://www.iconfinder.com/icons/1078774/instagram_logo_media_social_icon#size=128). Instagram brand and logos are registered trademarks of Instagram Inc. Developed just for fun!
+> **Note:** Extension's logo is taken from [here](https://www.iconfinder.com/icons/1078774/instagram_logo_media_social_icon#size=128). Instagram brand and logos are registered trademarks of Instagram Inc. Developed just for fun!
 
